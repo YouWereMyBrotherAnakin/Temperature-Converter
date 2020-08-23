@@ -1,0 +1,120 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    font-family: "Roboto Slab";
+}
+h1 {
+    text-align: center;
+    color: darkgreen;
+}
+.oneof {
+    float: left;
+    margin-left: 175px;
+}
+.inputandbuttonandheader {
+    position: relative;
+    left: 85px;
+}
+#twohaha {
+    position: relative;
+    left: 85px;
+}
+h2 {
+    position: relative;
+    left: 0px;
+    color: darkgreen;
+}
+button {
+    background-color: rgb(25, 39, 29);
+    color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+    font-family: "Roboto Slab";
+}
+input {
+    font-family: "Roboto Slab";
+}
+#first {
+    position: relative;
+    left: 35px;
+}
+#second {
+    position: relative;
+    left: 55px;
+}
+#onehaha {
+    position: relative;
+    left: 100px;
+}
+#productionheadertwo {
+    text-align: center;
+}
+textarea {
+    font-family: "Roboto Slab";
+    font-weight: bold;
+    color: black;
+    font-size: 15;
+}
+ul {
+    list-style-type: none;
+    position: relative;
+    left: 225px;
+    text-decoration: none;
+}
+h1 a {
+    transition: color 1s, font-size 1s, border-bottom 6s, padding 1s, border-bottom-color 3s;
+}
+h1 a:hover {
+    color: darkgreen;
+    font-size: 35px;
+    padding: 20px;
+}
+ul a {
+    transition: color 1s, font-size 1s;
+}
+ul a:hover {
+    color: teal;
+    font-size: 17px;
+}
+footer {
+    background-color: darkgreen;
+    color: black;
+    text-align: center;
+    width: 100%;
+    height: 65px;
+    position: relative;
+    top: 220px;
+}
+#contact-me {
+    text-align: center;
+    position: relative;
+    left: 10px;
+    top: 17px;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+}
+.listitem {
+    float: left;
+    margin-left: 125px;
+    text-decoration: none;
+    position: relative;
+    left: -12px;
+    top: 30px;
+    color: white;
+}
+li a {
+    text-decoration: none;
+    color: white;
+}
+ul{
+  position: relative;
+  left: 65px;
+}
